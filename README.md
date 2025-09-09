@@ -1,4 +1,4 @@
-# Shopping Assistant
+# Shop-bot
 
 ## Index
 - **[About](#about)**
