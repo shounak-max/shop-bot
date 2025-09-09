@@ -12,7 +12,7 @@
 - **[Tech Stack](#tech-stack)**   
 - **[File Structure](#file-structure)**
 ## About
-Shopping Assistant is a chatbot, which can assist consumers in deciding the right product and bridge the gap between online and offline shopping. 
+Shop-bot is a chatbot, which can assist consumers in deciding the right product and bridge the gap between online and offline shopping. 
 
 ## Features
 - Suggests products to the consumer depending upon his needs, just like a salesperson.
