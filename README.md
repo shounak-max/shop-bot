@@ -117,7 +117,7 @@ npm start
 ![Virtual trial step 3](./screenshots/ss-8.png)
 ![Another example of virtual trial](./screenshots/ss-9.png)
 ![Asking for a mobile phone with specific properties](./screenshots/ss-10.gif)
-![Virtual trial of sunglasses](./screenshots/ss-11.png)
+
 ![Summary of reviews](./screenshots/ss-12.png)
 ## Tech Stack
 
