@@ -104,8 +104,7 @@ npm start
 4. The web app would start running at http://localhost:3000
 ## Demo video
 
-- Available at [https://www.youtube.com/watch?v=x_BFtcoaTks](https://www.youtube.com/watch?v=x_BFtcoaTks)
-## Screenshots
+- Available at https://youtu.be/VO9urPbqsdg
 
 ![Home Page](./screenshots/ss-1.png)
 ![Asking for printed shirts](./screenshots/ss-2.gif)
