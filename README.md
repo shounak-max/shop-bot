@@ -7,7 +7,7 @@
    - **[Initial steps](#initial-steps)**
    - **[Method I (Using docker) [Recommended]](#method-i-using-docker-recommended)**
    - **[Method II (Without docker)](#method-ii-without-docker)**
-- 
+ 
 - **[Screenshots](#screenshots)**
 - **[Tech Stack](#tech-stack)**   
 - **[File Structure](#file-structure)**
