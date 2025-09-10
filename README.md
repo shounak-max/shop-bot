@@ -135,7 +135,7 @@ npm start
 
 ## File structure
 
-- Presentation has been attached as `presentation.pdf`
+
 - Screenshots have been attached in `screenshots/`
 - Training files have been attached as `training-files/`
 - Server code has been attached in `services/api/`
