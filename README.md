@@ -29,7 +29,7 @@ Shop-bot is a chatbot, which can assist consumers in deciding the right product 
 git clone https://github.com/shounak-max/shop-bot
 ```
 
-2. Download the 4 model files from [here](https://drive.google.com/drive/folders/1nu6HFg_POr-wF24rAJEH-ZRCn7wtIpIo?usp=sharing) and copy them all to the directory `shopping-assistant/services/api/`. Please note that if you download the `model_files` folder in .zip format, then you need to extract all the files out of it and then copy them to the above directory. 
+2. Download the 4 model files from [here](https://drive.google.com/drive/folders/1nu6HFg_POr-wF24rAJEH-ZRCn7wtIpIo?usp=sharing) and copy them all to the directory `shop-bot/services/api/`. Please note that if you download the `model_files` folder in .zip format, then you need to extract all the files out of it and then copy them to the above directory. 
 
 ## Method I (Using docker) [Recommended]
 ### Pre-requisites
@@ -44,7 +44,7 @@ Note: If you are using Windows, make sure Docker Desktop is running.
 
 ### Steps
 
-1. Make sure you are in the root of the project (i.e., `./shopping-assistant/`
+1. Make sure you are in the root of the project (i.e., `./shop-bot/`
    folder).
 2. Run `docker-compose up` to spin up the containers. If you are using Linux or Mac, you may need to use `sudo` for this command to work. 
 3. `web-app` would then be available locally at http://localhost:3000 , `server`
@@ -135,7 +135,7 @@ npm start
 
 ## File structure
 
-- Presentation has been attached as `presentation.pdf`
+
 - Screenshots have been attached in `screenshots/`
 - Training files have been attached as `training-files/`
 - Server code has been attached in `services/api/`
